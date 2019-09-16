@@ -1,0 +1,33 @@
+body {
+  background-color: #FDFEFE;
+  background-image: url("background.png")
+
+}
+
+
+h1 {
+  color: #000000;
+  font-family:fantasy;
+}
+
+p1 {
+  color: #000000;
+  font-family:monospace;
+  font-style: italic;
+  line-height: 3;
+}
+
+
+p2 {
+  color: black;
+  font-family:monospace;
+  font-size: 15px;
+  line-height: 4;
+}
+
+p3 {
+  color: black;
+  font-family:monospace;
+  font-size: 15px;
+  line-height: 2;
+}
